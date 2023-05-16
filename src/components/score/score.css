@@ -3,7 +3,7 @@
     /* top: 10%; */
     width: 100%;
     height: 100%;
-    outline: 2px solid blue;
+    /* outline: 2px solid blue; */
 }
 
 .scorefirstvstopbar {
@@ -49,4 +49,642 @@
     top: 15%;
     left: 5%;
     color: #FFFDD0;
+}
+
+.sfcurrentdet {
+    position: absolute;
+    top: 12%;
+    left: 10%;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.sfcurrentdet1 {
+    position: absolute;
+    top: 12%;
+    left: 10%;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.sfovers {
+    position: absolute;
+    top: 17%;
+    left: 10%;
+    font-size: small;
+    font-weight: 500;
+}
+
+.sftarget {
+    position: absolute;
+    top: 12%;
+    left: 45%;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.sftarget1 {
+    position: absolute;
+    top: 12%;
+    left: 45%;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.sfrrr {
+    position: absolute;
+    top: 12%;
+    left: 75%;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.sfrrr1 {
+    position: absolute;
+    top: 12%;
+    left: 75%;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.sfcrr {
+    position: absolute;
+    top: 17%;
+    left: 75%;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.sfbattingtext {
+    position: absolute;
+    top: 23%;
+    left: 10%;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.sfrb {
+    position: absolute;
+    top: 23%;
+    left: 37.5%;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.sf4s {
+    position: absolute;
+    top: 23%;
+    left: 47.5%;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.sf6s {
+    position: absolute;
+    top: 23%;
+    left: 52.5%;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.sfstrikerate{
+    position: absolute;
+    top: 23%;
+    left: 57.5%;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.Radioinput3 {
+    position: absolute;
+    top: 31.5%;
+    left: 9.41%;
+    height: 3%;
+    width: 3%;
+}
+
+.Rounded-inputplayer1 {
+    position: absolute;
+    top: 30%;
+    left: 12.5%;
+    width: 10%;
+    line-height: 26px;
+    /* border-radius: 10%; */
+    padding-left: 10px;
+    border: 1.5px solid black;
+    border-radius: 25px;
+    box-shadow: 0px 0px 0px 1px #C4C4C4;
+}
+
+.sfconfirm1 {
+    position:absolute;
+    top: 30.75%;
+    left: 25%;
+    border-radius: 25px;
+    padding: 5px 15px;
+    background-color: #0077b6;
+    color: #FFFDD0;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    width: 8%;
+    line-height: 90%;
+    text-align: center;
+    transition: all 0.3s ease;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+}
+
+.sfconfirm1:hover {
+    background-color: #006699;
+}
+
+.Radioinput4 {
+    position: absolute;
+    top: 38.5%;
+    left: 9.41%;
+    height: 3%;
+    width: 3%;
+}
+
+.Rounded-inputplayer2 {
+    position: absolute;
+    top: 37%;
+    left: 12.5%;
+    width: 10%;
+    line-height: 26px;
+    /* border-radius: 10%; */
+    padding-left: 10px;
+    border: 1.5px solid black;
+    border-radius: 25px;
+    box-shadow: 0px 0px 0px 1px #C4C4C4;
+}
+
+.sfconfirm2 {
+    position:absolute;
+    top: 37.75%;
+    left: 25%;
+    border-radius: 25px;
+    padding: 5px 15px;
+    background-color: #0077b6;
+    color: #FFFDD0;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    width: 8%;
+    line-height: 90%;
+    text-align: center;
+    transition: all 0.3s ease;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+}
+
+.sfconfirm2:hover {
+    background-color: #006699;
+}
+
+.sfplayer1rb {
+    position: absolute;
+    top: 30.75%;
+    left: 37.5%;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.sfplayer2rb {
+    position: absolute;
+    top: 37.75%;
+    left: 37.5%;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.sfplayer14balls {
+    position: absolute;
+    top: 30.75%;
+    left: 47.5%;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.sfplayer24balls {
+    position: absolute;
+    top: 37.75%;
+    left: 47.5%;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.sfplayer16balls {
+    position: absolute;
+    top: 30.75%;
+    left: 52.5%;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.sfplayer26balls {
+    position: absolute;
+    top: 37.75%;
+    left: 52.5%;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.sfplayer1srr {
+    position: absolute;
+    top: 30.75%;
+    left: 57.5%;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.sfplayer2srr {
+    position: absolute;
+    top: 37.75%;
+    left: 57.5%;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.sfbowlingtext {
+    position: absolute;
+    top: 47%;
+    left: 10%;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.Rounded-inputbowler {
+    position: absolute;
+    top: 54%;
+    left: 10%;
+    width: 10%;
+    line-height: 26px;
+    /* border-radius: 10%; */
+    padding-left: 10px;
+    border: 1.5px solid black;
+    border-radius: 25px;
+    box-shadow: 0px 0px 0px 1px #C4C4C4;
+}
+
+.sfconfirm3 {
+    position:absolute;
+    top: 54.75%;
+    left: 22.5%;
+    border-radius: 25px;
+    padding: 5px 15px;
+    background-color: #0077b6;
+    color: #FFFDD0;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    width: 8%;
+    line-height: 90%;
+    text-align: center;
+    transition: all 0.3s ease;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+}
+
+.sfconfirm3:hover {
+    background-color: #006699;
+}
+
+.sfbextras {
+    position: absolute;
+    top: 54.75%;
+    left: 35%;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.sfbwides {
+    position: absolute;
+    top: 54.75%;
+    left: 45%;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.sfbnoballs {
+    position: absolute;
+    top: 54.75%;
+    left: 55%;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.sfscorebutton0 {
+    position:absolute;
+    top: 61.5%;
+    left: 10%;
+    border-radius: 25px;
+    padding: 5px 15px;
+    background-color: #0077b6;
+    color: #FFFDD0;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    width: 6.5%;
+    line-height: 90%;
+    text-align: center;
+    transition: all 0.3s ease;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);    
+}
+
+.sfscorebutton0:hover {
+    background-color: #006699;
+}
+
+.sfscorebutton1 {
+    position:absolute;
+    top: 61.5%;
+    left: 18%;
+    border-radius: 25px;
+    padding: 5px 15px;
+    background-color: #0077b6;
+    color: #FFFDD0;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    width: 6.5%;
+    line-height: 90%;
+    text-align: center;
+    transition: all 0.3s ease;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);    
+}
+
+.sfscorebutton1:hover {
+    background-color: #006699;
+}
+
+.sfscorebutton2 {
+    position:absolute;
+    top: 61.5%;
+    left: 26%;
+    border-radius: 25px;
+    padding: 5px 15px;
+    background-color: #0077b6;
+    color: #FFFDD0;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    width: 6.5%;
+    line-height: 90%;
+    text-align: center;
+    transition: all 0.3s ease;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);    
+}
+
+.sfscorebutton2:hover {
+    background-color: #006699;
+}
+
+.sfscorebutton3 {
+    position:absolute;
+    top: 61.5%;
+    left: 34%;
+    border-radius: 25px;
+    padding: 5px 15px;
+    background-color: #0077b6;
+    color: #FFFDD0;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    width: 6.5%;
+    line-height: 90%;
+    text-align: center;
+    transition: all 0.3s ease;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);    
+}
+
+.sfscorebutton3:hover {
+    background-color: #006699;
+}
+
+.sfscorebutton4 {
+    position:absolute;
+    top: 61.5%;
+    left: 42%;
+    border-radius: 25px;
+    padding: 5px 15px;
+    background-color: #0077b6;
+    color: #FFFDD0;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    width: 6.5%;
+    line-height: 90%;
+    text-align: center;
+    transition: all 0.3s ease;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);    
+}
+
+.sfscorebutton4:hover {
+    background-color: #006699;
+}
+
+.sfscorebutton6 {
+    position:absolute;
+    top: 61.5%;
+    left: 50%;
+    border-radius: 25px;
+    padding: 5px 15px;
+    background-color: #0077b6;
+    color: #FFFDD0;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    width: 6.5%;
+    line-height: 90%;
+    text-align: center;
+    transition: all 0.3s ease;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);    
+}
+
+.sfscorebutton6:hover {
+    background-color: #006699;
+}
+
+.sfextrawide {
+    position:absolute;
+    top: 68%;
+    left: 10%;
+    border-radius: 25px;
+    padding: 5px 15px;
+    background-color: #0077b6;
+    color: #FFFDD0;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    width: 8%;
+    line-height: 90%;
+    text-align: center;
+    transition: all 0.3s ease;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);    
+}
+
+.sfextrawide:hover {
+    background-color: #006699;
+}
+
+.sfextranoball {
+    position:absolute;
+    top: 68%;
+    left: 19.5%;
+    border-radius: 25px;
+    padding: 5px 15px;
+    background-color: #0077b6;
+    color: #FFFDD0;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    width: 10%;
+    line-height: 90%;
+    text-align: center;
+    transition: all 0.3s ease;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);    
+}
+
+.sfextranoball:hover {
+    background-color: #006699;
+}
+
+.sfcatch {
+    position:absolute;
+    top: 74.5%;
+    left: 10%;
+    border-radius: 25px;
+    padding: 5px 15px;
+    background-color: #d43c3c;
+    color: #FFFDD0;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    width: 10%;
+    line-height: 90%;
+    text-align: center;
+    transition: all 0.3s ease;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);   
+}
+
+.sfcatch:hover {
+    background-color: #ff0000;
+}
+
+.sfstump {
+    position:absolute;
+    top: 74.5%;
+    left: 21.5%;
+    border-radius: 25px;
+    padding: 5px 15px;
+    background-color: #d43c3c;
+    color: #FFFDD0;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    width: 10%;
+    line-height: 90%;
+    text-align: center;
+    transition: all 0.3s ease;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);   
+}
+
+.sfstump:hover {
+    background-color: #ff0000;
+}
+
+.sfhitw {
+    position:absolute;
+    top: 74.5%;
+    left: 33%;
+    border-radius: 25px;
+    padding: 5px 15px;
+    background-color: #d43c3c;
+    color: #FFFDD0;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    width: 10%;
+    line-height: 90%;
+    text-align: center;
+    transition: all 0.3s ease;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);   
+}
+
+.sfhitw:hover {
+    background-color: #ff0000;
+}
+
+.sfbowled {
+    position:absolute;
+    top: 74.5%;
+    left: 44.5%;
+    border-radius: 25px;
+    padding: 5px 15px;
+    background-color: #d43c3c;
+    color: #FFFDD0;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    width: 10%;
+    line-height: 90%;
+    text-align: center;
+    transition: all 0.3s ease;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);   
+}
+
+.sfbowled:hover {
+    background-color: #ff0000;
+}
+
+.sfroutp1 {
+    position:absolute;
+    top: 74.5%;
+    left: 56%;
+    border-radius: 25px;
+    padding: 5px 15px;
+    background-color: #d43c3c;
+    color: #FFFDD0;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    width: 12%;
+    line-height: 90%;
+    text-align: center;
+    transition: all 0.3s ease;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);   
+}
+
+.sfroutp1:hover {
+    background-color: #ff0000;
+}
+
+.sfroutp2 {
+    position:absolute;
+    top: 74.5%;
+    left: 69.5%;
+    border-radius: 25px;
+    padding: 5px 15px;
+    background-color: #d43c3c;
+    color: #FFFDD0;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    width: 12%;
+    line-height: 90%;
+    text-align: center;
+    transition: all 0.3s ease;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);   
+}
+
+.sfroutp2:hover {
+    background-color: #ff0000;
+}
+
+.scorefirstscoreboard {
+    /* position: relative;
+    top: 150%;
+    left: 12.5%;
+    height: 84%;
+    width: 75%;
+    outline: 1.5px solid black; */
 }
